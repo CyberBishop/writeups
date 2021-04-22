@@ -342,12 +342,12 @@ ul.navigation a {
     text-decoration: none;
 	text-align: center;
 	color: #000;
-	background: url(../images/tooplate_menu.png) no-repeat
+	background: url(img/tooplate_menu.png) no-repeat
 }
 
 ul.navigation a.last {
 	height: 98px;
-	background: url(../images/tooplate_menu_last.png) no-repeat top left;
+	background: url(img/tooplate_menu_last.png) no-repeat top left;
 }
 
 ul.navigation a:hover, ul.navigation a.selected {
