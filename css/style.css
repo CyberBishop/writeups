@@ -312,6 +312,13 @@ a:focus {
  * Menu
  *-----------------------*/
 
+ #header { 
+	width: 208px;
+	padding: 110px 10px 0;
+	height: 93px;
+	background: url(../images/tooplate_site_header.png) no-repeat top
+}
+
  #menu {
 	clear: both;
 	width: 228px;
